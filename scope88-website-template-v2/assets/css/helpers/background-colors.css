@@ -1,0 +1,39 @@
+/* This is background color */
+.sc-bg-light {
+  background: var(--bs-light);
+}
+.sc-bg-green {
+  background: var(--bs-green);
+}
+.sc-bg-lightbrown {
+  background: var(--bs-light-brown);
+}
+.sc-bg-lightgreen {
+  background: var(--bs-light-green);
+}
+.sc-bg-biege {
+  background: var(--bs-biege);
+}
+.sc-bg-green-grapes {
+  background: var(--bs-green-grapes);
+}
+
+/* This is color text */
+.sc-text-light {
+  color: var(--bs-light);
+}
+.sc-text-green {
+  color: var(--bs-green);
+}
+.sc-text-lightbrown {
+  color: var(--bs-light-brown);
+}
+.sc-text-lightgreen {
+  color: var(--bs-light-green);
+}
+.sc-text-biege {
+  color: var(--bs-biege);
+}
+.sc-text-green-grapes {
+  color: var(--bs-green-grapes);
+}

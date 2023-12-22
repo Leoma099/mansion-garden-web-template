@@ -1,0 +1,46 @@
+.header-banner {
+  background-image: url("/assets/images/hotel-facade.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.check-room-availability {
+  background: #fff;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -90%);
+  width: 1100px;
+  padding: 20px;
+}
+.check-room-availability .input-form {
+  display: inline-block;
+  padding: 6px 0px;
+  border-bottom: 2px dotted #000;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.check-room-availability .input-form input {
+  width: 195px;
+  border: none;
+  outline: none;
+}
+.check-room-availability .button-form {
+  display: inline-block;
+  padding: 10px 25px;
+  background: rgb(175, 112, 112);
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.check-room-availability .button-form a {
+  width: 195px;
+  color: #fff;
+  text-decoration: none;
+}
